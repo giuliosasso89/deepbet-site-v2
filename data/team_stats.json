@@ -1,0 +1,667 @@
+[
+  {
+    "team": "Manchester City",
+    "overall": 85,
+    "attack": 87,
+    "midfield": 86,
+    "defence": 83
+  },
+  {
+    "team": "Real Madrid",
+    "overall": 85,
+    "attack": 85,
+    "midfield": 85,
+    "defence": 83
+  },
+  {
+    "team": "FC Bayern MÃ¼nchen",
+    "overall": 84,
+    "attack": 90,
+    "midfield": 84,
+    "defence": 83
+  },
+  {
+    "team": "Barcelona",
+    "overall": 84,
+    "attack": 84,
+    "midfield": 84,
+    "defence": 83
+  },
+  {
+    "team": "Liverpool",
+    "overall": 83,
+    "attack": 84,
+    "midfield": 82,
+    "defence": 84
+  },
+  {
+    "team": "Paris Saint Germain",
+    "overall": 83,
+    "attack": 86,
+    "midfield": 79,
+    "defence": 83
+  },
+  {
+    "team": "Ath Madrid",
+    "overall": 83,
+    "attack": 85,
+    "midfield": 82,
+    "defence": 81
+  },
+  {
+    "team": "Arsenal",
+    "overall": 82,
+    "attack": 82,
+    "midfield": 84,
+    "defence": 81
+  },
+  {
+    "team": "Manchester United",
+    "overall": 82,
+    "attack": 82,
+    "midfield": 83,
+    "defence": 80
+  },
+  {
+    "team": "Inter",
+    "overall": 82,
+    "attack": 81,
+    "midfield": 82,
+    "defence": 82
+  },
+  {
+    "team": "Newcastle United",
+    "overall": 81,
+    "attack": 79,
+    "midfield": 81,
+    "defence": 82
+  },
+  {
+    "team": "Tottenham Hotspur",
+    "overall": 81,
+    "attack": 81,
+    "midfield": 80,
+    "defence": 79
+  },
+  {
+    "team": "Borussia Dortmund",
+    "overall": 81,
+    "attack": 81,
+    "midfield": 81,
+    "defence": 81
+  },
+  {
+    "team": "Napoli",
+    "overall": 81,
+    "attack": 82,
+    "midfield": 82,
+    "defence": 80
+  },
+  {
+    "team": "Aston Villa",
+    "overall": 80,
+    "attack": 82,
+    "midfield": 79,
+    "defence": 79
+  },
+  {
+    "team": "Chelsea",
+    "overall": 80,
+    "attack": 77,
+    "midfield": 81,
+    "defence": 78
+  },
+  {
+    "team": "Bayer 04 Leverkusen",
+    "overall": 80,
+    "attack": 81,
+    "midfield": 81,
+    "defence": 79
+  },
+  {
+    "team": "Juventus",
+    "overall": 80,
+    "attack": 81,
+    "midfield": 80,
+    "defence": 79
+  },
+  {
+    "team": "Lazio",
+    "overall": 80,
+    "attack": 81,
+    "midfield": 79,
+    "defence": 80
+  },
+  {
+    "team": "Milan",
+    "overall": 80,
+    "attack": 81,
+    "midfield": 79,
+    "defence": 81
+  },
+  {
+    "team": "Roma",
+    "overall": 80,
+    "attack": 82,
+    "midfield": 78,
+    "defence": 81
+  },
+  {
+    "team": "Sevilla",
+    "overall": 80,
+    "attack": 80,
+    "midfield": 79,
+    "defence": 82
+  },
+  {
+    "team": "RB Leipzig",
+    "overall": 80,
+    "attack": 82,
+    "midfield": 79,
+    "defence": 79
+  },
+  {
+    "team": "Ath Bilbao",
+    "overall": 79,
+    "attack": 77,
+    "midfield": 79,
+    "defence": 77
+  },
+  {
+    "team": "Real Betis",
+    "overall": 79,
+    "attack": 83,
+    "midfield": 79,
+    "defence": 77
+  },
+  {
+    "team": "Real Sociedad",
+    "overall": 79,
+    "attack": 79,
+    "midfield": 81,
+    "defence": 79
+  },
+  {
+    "team": "Villarreal",
+    "overall": 79,
+    "attack": 79,
+    "midfield": 80,
+    "defence": 77
+  },
+  {
+    "team": "West Ham United",
+    "overall": 78,
+    "attack": 78,
+    "midfield": 79,
+    "defence": 78
+  },
+  {
+    "team": "Atalanta",
+    "overall": 78,
+    "attack": 79,
+    "midfield": 77,
+    "defence": 77
+  },
+  {
+    "team": "Olympique de Marseille",
+    "overall": 78,
+    "attack": 77,
+    "midfield": 78,
+    "defence": 78
+  },
+  {
+    "team": "Fiorentina",
+    "overall": 78,
+    "attack": 78,
+    "midfield": 77,
+    "defence": 78
+  },
+  {
+    "team": "Everton",
+    "overall": 77,
+    "attack": 79,
+    "midfield": 77,
+    "defence": 75
+  },
+  {
+    "team": "Nottingham Forest",
+    "overall": 77,
+    "attack": 75,
+    "midfield": 77,
+    "defence": 75
+  },
+  {
+    "team": "Lens",
+    "overall": 77,
+    "attack": 77,
+    "midfield": 76,
+    "defence": 77
+  },
+  {
+    "team": "Fulham",
+    "overall": 77,
+    "attack": 76,
+    "midfield": 77,
+    "defence": 76
+  },
+  {
+    "team": "VfL Wolfsburg",
+    "overall": 77,
+    "attack": 76,
+    "midfield": 78,
+    "defence": 75
+  },
+  {
+    "team": "Osasuna",
+    "overall": 77,
+    "attack": 77,
+    "midfield": 77,
+    "defence": 77
+  },
+  {
+    "team": "Brighton & Hove Albion",
+    "overall": 77,
+    "attack": 77,
+    "midfield": 77,
+    "defence": 78
+  },
+  {
+    "team": "FC Union Berlin",
+    "overall": 77,
+    "attack": 77,
+    "midfield": 75,
+    "defence": 77
+  },
+  {
+    "team": "Borussia MÃ¶nchengladbach",
+    "overall": 76,
+    "attack": 75,
+    "midfield": 76,
+    "defence": 75
+  },
+  {
+    "team": "SC Freiburg",
+    "overall": 76,
+    "attack": 76,
+    "midfield": 76,
+    "defence": 77
+  },
+  {
+    "team": "Lille",
+    "overall": 76,
+    "attack": 77,
+    "midfield": 75,
+    "defence": 75
+  },
+  {
+    "team": "Olympique Lyonnais",
+    "overall": 76,
+    "attack": 77,
+    "midfield": 75,
+    "defence": 76
+  },
+  {
+    "team": "Nice",
+    "overall": 76,
+    "attack": 77,
+    "midfield": 76,
+    "defence": 75
+  },
+  {
+    "team": "Rennes",
+    "overall": 76,
+    "attack": 77,
+    "midfield": 78,
+    "defence": 74
+  },
+  {
+    "team": "Wolverhampton Wanderers",
+    "overall": 76,
+    "attack": 75,
+    "midfield": 77,
+    "defence": 76
+  },
+  {
+    "team": "Celta de Vigo",
+    "overall": 76,
+    "attack": 79,
+    "midfield": 76,
+    "defence": 75
+  },
+  {
+    "team": "Mallorca",
+    "overall": 76,
+    "attack": 77,
+    "midfield": 77,
+    "defence": 74
+  },
+  {
+    "team": "Vallecano",
+    "overall": 76,
+    "attack": 76,
+    "midfield": 77,
+    "defence": 77
+  },
+  {
+    "team": "Crystal Palace",
+    "overall": 76,
+    "attack": 75,
+    "midfield": 76,
+    "defence": 76
+  },
+  {
+    "team": "Eintracht Frankfurt",
+    "overall": 76,
+    "attack": 76,
+    "midfield": 76,
+    "defence": 75
+  },
+  {
+    "team": "Getafe",
+    "overall": 76,
+    "attack": 82,
+    "midfield": 76,
+    "defence": 75
+  },
+  {
+    "team": "Brentford",
+    "overall": 76,
+    "attack": 75,
+    "midfield": 76,
+    "defence": 76
+  },
+  {
+    "team": "TSG Hoffenheim",
+    "overall": 76,
+    "attack": 77,
+    "midfield": 76,
+    "defence": 75
+  },
+  {
+    "team": "Girona",
+    "overall": 76,
+    "attack": 77,
+    "midfield": 76,
+    "defence": 76
+  },
+  {
+    "team": "Torino",
+    "overall": 75,
+    "attack": 76,
+    "midfield": 74,
+    "defence": 76
+  },
+  {
+    "team": "FSV Mainz 05",
+    "overall": 75,
+    "attack": 77,
+    "midfield": 75,
+    "defence": 74
+  },
+  {
+    "team": "Valencia",
+    "overall": 75,
+    "attack": 74,
+    "midfield": 74,
+    "defence": 76
+  },
+  {
+    "team": "AlmerÃ­a",
+    "overall": 75,
+    "attack": 75,
+    "midfield": 74,
+    "defence": 74
+  },
+  {
+    "team": "AFC Bournemouth",
+    "overall": 75,
+    "attack": 75,
+    "midfield": 75,
+    "defence": 74
+  },
+  {
+    "team": "CÃ¡diz",
+    "overall": 75,
+    "attack": 74,
+    "midfield": 75,
+    "defence": 73
+  },
+  {
+    "team": "Monza",
+    "overall": 75,
+    "attack": 75,
+    "midfield": 75,
+    "defence": 74
+  },
+  {
+    "team": "Sassuolo",
+    "overall": 75,
+    "attack": 78,
+    "midfield": 73,
+    "defence": 72
+  },
+  {
+    "team": "FC KÃ¶ln",
+    "overall": 74,
+    "attack": 73,
+    "midfield": 74,
+    "defence": 73
+  },
+  {
+    "team": "Werder Bremen",
+    "overall": 74,
+    "attack": 75,
+    "midfield": 74,
+    "defence": 74
+  },
+  {
+    "team": "Udinese",
+    "overall": 74,
+    "attack": 74,
+    "midfield": 73,
+    "defence": 74
+  },
+  {
+    "team": "Bologna",
+    "overall": 74,
+    "attack": 73,
+    "midfield": 76,
+    "defence": 73
+  },
+  {
+    "team": "Hellas Verona",
+    "overall": 74,
+    "attack": 71,
+    "midfield": 74,
+    "defence": 74
+  },
+  {
+    "team": "Las Palmas",
+    "overall": 74,
+    "attack": 75,
+    "midfield": 75,
+    "defence": 72
+  },
+  {
+    "team": "Burnley",
+    "overall": 74,
+    "attack": 69,
+    "midfield": 74,
+    "defence": 73
+  },
+  {
+    "team": "FC Augsburg",
+    "overall": 74,
+    "attack": 72,
+    "midfield": 74,
+    "defence": 74
+  },
+  {
+    "team": "VfB Stuttgart",
+    "overall": 73,
+    "attack": 76,
+    "midfield": 73,
+    "defence": 73
+  },
+  {
+    "team": "Montpellier",
+    "overall": 73,
+    "attack": 68,
+    "midfield": 75,
+    "defence": 73
+  },
+  {
+    "team": "Nantes",
+    "overall": 73,
+    "attack": 73,
+    "midfield": 73,
+    "defence": 73
+  },
+  {
+    "team": "VfL Bochum 1848",
+    "overall": 73,
+    "attack": 74,
+    "midfield": 73,
+    "defence": 73
+  },
+  {
+    "team": "Lorient",
+    "overall": 73,
+    "attack": 73,
+    "midfield": 73,
+    "defence": 73
+  },
+  {
+    "team": "Stade de Reims",
+    "overall": 73,
+    "attack": 69,
+    "midfield": 75,
+    "defence": 72
+  },
+  {
+    "team": "Empoli",
+    "overall": 73,
+    "attack": 74,
+    "midfield": 74,
+    "defence": 72
+  },
+  {
+    "team": "Sheffield United",
+    "overall": 73,
+    "attack": 72,
+    "midfield": 74,
+    "defence": 72
+  },
+  {
+    "team": "Salernitana",
+    "overall": 73,
+    "attack": 74,
+    "midfield": 73,
+    "defence": 71
+  },
+  {
+    "team": "Genoa",
+    "overall": 73,
+    "attack": 76,
+    "midfield": 73,
+    "defence": 71
+  },
+  {
+    "team": "Granada",
+    "overall": 73,
+    "attack": 76,
+    "midfield": 72,
+    "defence": 72
+  },
+  {
+    "team": "Strasbourg",
+    "overall": 72,
+    "attack": 72,
+    "midfield": 72,
+    "defence": 72
+  },
+  {
+    "team": "Lecce",
+    "overall": 72,
+    "attack": 74,
+    "midfield": 68,
+    "defence": 72
+  },
+  {
+    "team": "Brest",
+    "overall": 72,
+    "attack": 72,
+    "midfield": 73,
+    "defence": 72
+  },
+  {
+    "team": "Deportivo AlavÃ©s",
+    "overall": 72,
+    "attack": 73,
+    "midfield": 73,
+    "defence": 73
+  },
+  {
+    "team": "Clermont",
+    "overall": 72,
+    "attack": 71,
+    "midfield": 72,
+    "defence": 71
+  },
+  {
+    "team": "Cagliari",
+    "overall": 72,
+    "attack": 72,
+    "midfield": 72,
+    "defence": 71
+  },
+  {
+    "team": "Luton Town",
+    "overall": 72,
+    "attack": 72,
+    "midfield": 72,
+    "defence": 72
+  },
+  {
+    "team": "Toulouse",
+    "overall": 71,
+    "attack": 75,
+    "midfield": 71,
+    "defence": 72
+  },
+  {
+    "team": "Darmstadt 98",
+    "overall": 71,
+    "attack": 69,
+    "midfield": 71,
+    "defence": 71
+  },
+  {
+    "team": "Heidenheim",
+    "overall": 71,
+    "attack": 72,
+    "midfield": 70,
+    "defence": 71
+  },
+  {
+    "team": "Metz",
+    "overall": 70,
+    "attack": 69,
+    "midfield": 68,
+    "defence": 71
+  },
+  {
+    "team": "Le Havre",
+    "overall": 70,
+    "attack": 70,
+    "midfield": 70,
+    "defence": 71
+  },
+  {
+    "team": "Frosinone",
+    "overall": 70,
+    "attack": 70,
+    "midfield": 70,
+    "defence": 67
+  }
+]
